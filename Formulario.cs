@@ -1,4 +1,5 @@
-﻿using System;
+//en replit no corre solo en visual creo 
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
